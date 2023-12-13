@@ -33,22 +33,6 @@
   [
     {
       "owner": "khoih-prog",
-      "name": "WiFiNINA_Generic",
-      "version": ">=1.8.14-6",
-      "platforms": ["*"]
-    },
-    {
-      "name": "WiFi101",
-      "version": "https://github.com/khoih-prog/WiFi101"
-    },
-    {
-      "owner": "jandrassy",
-      "name": "WiFiEspAT",
-      "version": ">=1.4.1",
-      "platforms": ["*"]
-    },
-    {
-      "owner": "khoih-prog",
       "name": "Ethernet_Generic",
       "version": "^2.6.1"
     }
